@@ -9,6 +9,7 @@ body {
   overflow-x: hidden;
   width: 100%;
   width: 100vw;
+  min-height: 100vh;
   font-family: "Public sans", sans-serif;
   z-index: 100;
 }
